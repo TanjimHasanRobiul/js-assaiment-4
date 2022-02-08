@@ -1,3 +1,5 @@
-var anas=144;
-var vori = anas/16;
+// anaToVori
+
+var ana=144;
+var vori = ana/16;
 console.log(vori);
